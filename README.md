@@ -1,5 +1,7 @@
 # QEC Dense: Noise-Resilient Quantum Superdense Communication
 
+**[▶ Live demo: qec-dense.streamlit.app](https://qec-dense.streamlit.app)**
+
 **Best Use Case of QSDC** award, QC² Quantum Computing Conclave National Hackathon, SRM University AP (2026)
 
 Send **2 classical bits with 1 qubit** over a shared entangled pair, keep the message alive over a noisy channel with a 3-qubit repetition code, and secure it with E91 quantum key distribution. Alice and Bob run as separate programs talking over real TCP sockets.
